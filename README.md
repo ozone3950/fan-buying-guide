@@ -31,8 +31,10 @@ Here is a guide on buying case fans. A lot of fans will be covered for many diff
 | Arctic P14 CO               | Black                       | Dual-Ball                   | $14                         | Decent value, decent for airflow/rads, long lifespan |
 | Enermax UCTBA14P            | Black                       | Twister Gen 2               | $21                         | Completely silent, good for airflow |
 | Scythe Kaze Flex            | Grey                        | Fluid Dynamic               | $18                         | Decent value, good for airflow/rads |
-| NoiseBlocker Eloop B        | Black                       | NB Nano SLI 2
+| NoiseBlocker Eloop B        | Black                       | NB Nano SLI 2               | $30                         | Amazing rad performance, nearly silent |
 
 ##### RGB
 | Model                       | Colour                      | Bearing                     | Price                       | Notes                       |
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
+| Gelid Lyra                  | Black                       | Dual-Ball                   | $15                         | Decent value, long lifespan |
+| Scythe Kaze Flex RGB        | Black                       | Fluid-Dynamic               | $21                         | Decent value, good for airflow/rads |
