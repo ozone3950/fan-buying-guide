@@ -35,7 +35,7 @@ The prices of the fans are what they should be/normally are at. All fans are PWM
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | Arctic P14 CO               | Black                       | Dual-Ball                   | $14                         | Decent value, decent for airflow/rads, long lifespan |
 | Enermax UCTBA14P            | Black                       | Twister Gen 2               | $21                         | Completely silent, good for airflow |
-| NoiseBlocker Eloop B        | Black/White                 | NB Nano SLI 2               | $30                         | Amazing rad performance, nearly silent |
+| NoiseBlocker Eloop B        | Black/White                 | NB NanoSLI 2                | $30                         | Amazing rad performance, nearly silent |
 | Scythe Kaze Flex            | Grey                        | Fluid Dynamic               | $18                         | Decent value, good for airflow/rads |
 | Thermaltake TOUGHFAN        | Black                       | Hydraulic                   | $30                         | Amazing rad performance     |
 
@@ -43,7 +43,7 @@ The prices of the fans are what they should be/normally are at. All fans are PWM
 | Model                       | Colour                      | Bearing                     | Price                       | Notes                       |
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | Gelid Lyra                  | Black                       | Dual-Ball                   | $15                         | Decent value, long lifespan |
-| NoiseBlocker ELOOP X ARGB   | Black/White                 | NB Nano SLI 2               | $35 ($40 for white)         | Amazing rad performance, nearly silent |
+| NoiseBlocker ELOOP X ARGB   | Black/White                 | NB NanoSLI 2                | $35 ($40 for white)         | Amazing rad performance, nearly silent |
 | Scythe Kaze Flex RGB        | Black                       | Fluid-Dynamic               | $21                         | Decent value, good for airflow/rads |
 
 
@@ -51,6 +51,6 @@ The prices of the fans are what they should be/normally are at. All fans are PWM
 
 | Size                        | Model                       | Colour                      | Bearing                     | Price                       |
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
-| 40mm                        | Noctua A4x20                | Beige/Brown                 | SSO2                        | $15                         |
+| 40mm                        | NoiseBlocker BlackSilent    | Black/Blue                  | NB NanoSLI                  | $8                          |
 | 92mm                        | be quiet! Pure Wings 2      | Black                       | Hydraulic                   | $9                          |
 | 180mm                       | Silverstone AP183           | Black                       | Dual-Ball                   | $25                         |
