@@ -2,6 +2,8 @@
 
 Here is a guide on buying case fans. A lot of fans will be covered for many different purposes and budgets. If you have any more suggestions, feel free to give your input.
 
+The prices of the fans are what they should be/normally are at.
+
 ## 120mm Fans
 
 ##### Non-RGB:
