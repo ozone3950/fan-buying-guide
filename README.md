@@ -22,6 +22,7 @@ The prices of the fans are what they should be/normally are at. All fans are PWM
 | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
 | Alpenföhn Wing Boost 3 ARGB | Black or White              | Fluid-Dynamic               | $25                         | Great radiator performance  |
 | Arctic P12 RGB              | Black                       | Hydraulic                   | $15                         | Decent value, decent for airflow/rads |
+| be quiet! Light Wings       | Black                       | Hydraulic                   | $30                         | Amazing rad performance, nearly silent |
 | Enermax SquA RGB            | Black/White                 | Twister Gen 1               | $20                         | Best airflow RGB fan, great value |
 | Gelid Stella                | Black                       | Dual-Ball                   | $7                          | Excellent value, long lifespan |
 | Scythe Kaze Flex RGB        | Black                       | Fluid-Dynamic               | $16                         | Great value, good for airflow/rads |
