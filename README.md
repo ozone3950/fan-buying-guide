@@ -2,55 +2,66 @@
 
 Here is a guide on buying case fans. A lot of fans will be covered for many different purposes and budgets. If you have any more suggestions, feel free to give your input.
 
-The prices of the fans are what they should be/normally are at. All fans are PWM.
 
 
-## 120mm Fans
 
-##### Non-RGB:
-| Model                       | Colour                      | Bearing                     | Price                       | Notes                       |
-| --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
-| Arctic P12 CO               | Black                       | Dual-Ball                   | $11                         | Decent value, decent for airflow/rads, long lifespan |
-| Enermax UCTBA12P            | Black                       | Twister Gen 2               | $14                         | Great value, complety silent, good for airflow |
-| Nidec/XPG Gentle Typhoon    | Black/Grey                  | Dual-Ball                   | $25                         | Amazing rad performance, decent value |  
-| Phanteks T30                | Black/Grey                  | Dual-Vapo                   | $30                         | Amazing rad performance, though it's 35mm thick |
-| Scythe Kaze Flex            | Grey                        | Fluid-Dynamic               | $14                         | Great value, great for airflow/rads |
-| Thermaltake TOUGHFAN        | Black                       | Hydraulic                   | $30                         | Amazing rad performance     |
+# Non-RGB Fans:
 
-##### RGB:
-| Model                       | Colour                      | Bearing                     | Price                       | Notes                       |
-| --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
-| Alpenföhn Wing Boost 3 ARGB | Black or White              | Fluid-Dynamic               | $25                         | Great radiator performance  |
-| Arctic P12 RGB              | Black                       | Hydraulic                   | $15                         | Decent value, decent for airflow/rads |
-| be quiet! Light Wings HS    | Black                       | Hydraulic                   | $30                         | Great rad/airflow performance, nearly silent |
-| Enermax SquA RGB            | Black/White                 | Twister Gen 1               | $20                         | Best airflow RGB fan, great value |
-| Gelid Stella                | Black                       | Dual-Ball                   | $7                          | Excellent value, long lifespan |
-| Scythe Kaze Flex RGB        | Black                       | Fluid-Dynamic               | $16                         | Great value, good for airflow/rads |
+## 120mm:
 
-
-## 140mm Fans
-
-##### Non-RGB
-| Model                       | Colour                      | Bearing                     | Price                       | Notes                       |
-| --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
-| Arctic P14 CO               | Black                       | Dual-Ball                   | $14                         | Decent value, decent for airflow/rads, long lifespan |
-| Enermax UCTBA14P            | Black                       | Twister Gen 2               | $21                         | Completely silent, good for airflow |
-| NoiseBlocker Eloop B        | Black/White                 | NB NanoSLI 2                | $30                         | Amazing rad performance, nearly silent |
-| Scythe Kaze Flex            | Grey                        | Fluid Dynamic               | $18                         | Decent value, good for airflow/rads |
-| Thermaltake TOUGHFAN        | Black                       | Hydraulic                   | $30                         | Amazing rad performance     |
-
-##### RGB
-| Model                       | Colour                      | Bearing                     | Price                       | Notes                       |
-| --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
-| Gelid Lyra                  | Black                       | Dual-Ball                   | $15                         | Decent value, long lifespan |
-| NoiseBlocker ELOOP X ARGB   | Black/White                 | NB NanoSLI 2                | $35 ($40 for white)         | Amazing rad performance, nearly silent |
-| Scythe Kaze Flex RGB        | Black                       | Fluid-Dynamic               | $21                         | Decent value, good for airflow/rads |
+| Name                        | Bearing                     | MTTF                          | Thickness                   | Optimisation                |
+| --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
+| Arctic P12 PWM PST/CO       | Hydro-Dynamic/Dual-Ball     | Unspecified                   | 27mm                        | Airflow/Static Pressure     |
+| Arctic P12 Slim             | Hydro-Dynamic               | Unspecified                   | 15mm                        | Airflow/Static Pressure     |
+| Cryorig QF120 Performance   | Hydro-Dynamic               | Unspecified                   | 25mm                        | Airflow                     |
+| Cougar Vortex PWM           | Dual-Ball                   | Unspecified                   | 25mm                        | Static Pressure             |
+| Enermax T.B. Silence ADV    | Twister Gen 2               | 160,000h @ 25°C               | 25mm                        | Airflow                     |
+| Nidec/Scythe Gentle Typhoon | Dual-Ball                   | 100,000h @ 35°C/60,000h @60°C | 25mm                        | Airflow/Static Pressure     |
+| Noctua NF-A12x25            | SSO2                        | 150,000h @ Unspecified        | 25mm                        | Airflow/Static Pressure     |
+| Phanteks T30                | Dual-Vapo                   | 150,000h @ Unspecified        | 30mm                        | Airflow/Static Pressure     |
+| Scythe Kaze Flex            | Fluid-Dynamic               | 120,000h @ 25°C               | 27mm                        | Airflow/Static Pressure     |
+| Scythe Kaze Flex Slim       | Fluid-Dynamic               | 120,000h @ 25°C               | 15mm                        | Airflow/Static Pressure     |
+| Scythe Slip Stream 120DB    | Dual-Ball                   | 350,000 @ Unspecified         | 25mm                        | Airflow                     |
+| Scythe Wonder Snail         | Fluid-Dynamic               | 120,000h @ Unspecified        | 26mm                        | Airflow/Static Pressure     |
+| Thermalright TC12           | Fluid-Dynamic               | Unspecified                   | 25mm                        | Airflow                     |
+| Thermaltake TOUGHFAN        | Hydro-Dynamic               | 40,000h @ 25°C                | 25mm                        | Airflow/Static Pressure     |
+| XPG VENTO PRO (GT Rebrand)  | Dual-Ball                   | 250,000h @ 25°C/60,000h @60°C | 25mm                        | Airflow/Static Pressure     |
 
 
-## Miscellaneous Fans
+## 140mm:
 
-| Size                        | Model                       | Colour                      | Bearing                     | Price                       |
-| --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
-| 40mm                        | NoiseBlocker BlackSilent    | Black/Blue                  | NB NanoSLI                  | $8                          |
-| 92mm                        | be quiet! Pure Wings 2      | Black                       | Hydraulic                   | $9                          |
-| 180mm                       | Silverstone AP183           | Black                       | Dual-Ball                   | $25                         |
+| Model                       | Bearing                     | MTTF                          | Thickness                   | Optimisation                |
+| --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
+| Arctic P14 PWM PST/CO       | Hydro-Dynamic/Dual-Ball     | Unspecified                   | 27mm                        | Static Pressure             |
+| Cryorig QF140 Performance   | Hydro-Dynamic               | Unspecified                   | 25mm                        | Airflow                     |
+| Cryorig XT140               | HPLN                        | Unspecified                   | 13mm                        | Airflow                     |
+| Enermax T.B. Silence ADV    | Twister Gen 2               | 160,000h @ 25°C               | 25mm                        | Airflow                     |
+| Noiseblocker NB-eLoop       | NB NanoSLI 2                | 160,000h @ 25°C               | 29mm                        | Airflow/Static Pressure     |
+| Scythe Kaze Flex            | Fluid Dynamic               | 120,000h @ 25°C               | 27mm                        | Airflow/Static Pressure     |
+| Thermaltake TOUGHFAN        | Hydraulic                   | 40,000h @ 25°C                | 25mm                        | Airflow/Static Pressure     |
+
+
+
+
+# RGB Fans:
+
+## 120mm:
+
+| Model                       | Bearing                     | MTTF                          | Thickness                   | Optimisation                |
+| --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
+| Alpenföhn Wing Boost 3 ARGB | Fluid-Dynamic               | 250,000h @ Unspecified        | 25mm                        | Airflow/Static Pressure     |
+| Arctic P12 RGB              | Hydraulic                   | Unspecified                   | 27mm                        | Airflow/Static Pressure     |
+| be quiet! Light Wings HS    | Hydraulic                   | 60,000h @ Unspecified         | 25mm                        | Airflow/Static Pressure     |
+| Enermax SquA RGB            | Twister Gen 1               | 100,000h @ 25°C               | 26mm                        | Airflow                     |
+| Gelid Stella                | Dual-Ball                   | 100,000h @ 40°C               | 25mm                        | Airflow                     |
+| Scythe Kaze Flex RGB        | Fluid-Dynamic               | 120,000h @ 25°C               | 27mm                        | Airflow/Static Pressure     |
+
+
+## 140mm:
+
+| Model                       | Bearing                     | MTTF                          | Thickness                   | Optimisation                |
+| --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
+| Alpenföhn Wing Boost 3 ARGB | Fluid-Dynamic               | 250,000h @ Unspecified        | 25mm                        | Airflow/Static Pressure     |
+| Gelid Lyra                  | Dual-Ball                   | 100,000h @ 40°C               | 25mm                        | Airflow                     |
+| Noiseblocker ELOOP X ARGB   | NB NanoSLI 2                | 120,000h @ 25°C               | 29mm                        | Airflow/Static Pressure     |
+| Scythe Kaze Flex RGB        | Fluid-Dynamic               | 120,000h @ 25°C               | 27mm                        | Airflow/Static Pressure     |
