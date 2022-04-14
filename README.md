@@ -14,7 +14,8 @@ Here is a guide on buying case fans. A lot of fans will be covered for many diff
 | Arctic P12 PWM PST/CO       | Hydro-Dynamic/Dual-Ball     | Unspecified                   | 27mm                        | Airflow/Static Pressure     |
 | Arctic P12 Slim             | Hydro-Dynamic               | Unspecified                   | 15mm                        | Airflow/Static Pressure     |
 | Cryorig QF120 Performance   | Hydro-Dynamic               | Unspecified                   | 25mm                        | Airflow                     |
-| Cougar Vortex PWM           | Dual-Ball                   | Unspecified                   | 25mm                        | Static Pressure             |
+| Cougar Vortex PWM           | Dual-Ball                   | Unspecified                   | 25mm                        | Airflow/Static Pressure     |
+| Cooler Master SF120M        | Dual-Ball                   | 280,000h @ Unspecified        | 25mm                        | Airflow/Static Pressure     |
 | Enermax D.F. Pressure       | Twister Gen 2               | 160,000h @ 25°C               | 25mm                        | Airflow/Static Pressure     |
 | Enermax Magma ADV           | Twister Gen 1               | 160,000h @ Unspecified        | 25mm                        | Airflow                     |
 | Enermax T.B. Silence ADV    | Twister Gen 2               | 160,000h @ 25°C               | 25mm                        | Airflow                     |
