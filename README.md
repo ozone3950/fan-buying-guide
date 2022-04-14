@@ -49,7 +49,7 @@ Here is a guide on buying case fans. A lot of fans will be covered for many diff
 | --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
 | Gelid Silent 4              | Hydro-Dynamic               | 50,000h @ 40°C                | 10mm                        | Airflow                     |
 | NB-Blacksilent Pro          | NB-NanoSLI 2                | 100,000h @ 40°C               | 20mm                        | Airflow/Static Pressure     |
-| Sunon Maglev                | Dual-Vapo                   | Unspecified                   | 20mm                        | Airflow/Static Pressure     |
+| Sunon Maglev                | Maglev                      | Unspecified                   | 20mm                        | Airflow/Static Pressure     |
 
 
 ## 80/92mm:
