@@ -17,8 +17,6 @@ Here is a guide on buying case fans. A lot of fans will be covered for many diff
 | Cougar Vortex PWM           | Dual-Ball                   | Unspecified                   | 25mm                        | Static Pressure             |
 | Enermax T.B. Silence ADV    | Twister Gen 2               | 160,000h @ 25°C               | 25mm                        | Airflow                     |
 | Nidec/Scythe Gentle Typhoon | Dual-Ball                   | 100,000h @ 35°C/60,000h @60°C | 25mm                        | Airflow/Static Pressure     |
-| Noctua NF-A12x15            | SSO2                        | 150,000h @ Unspecified        | 15mm                        | Airflow/Static Pressure     |
-| Noctua NF-A12x25            | SSO2                        | 150,000h @ Unspecified        | 25mm                        | Airflow/Static Pressure     |
 | Phanteks T30                | Dual-Vapo                   | 150,000h @ Unspecified        | 30mm                        | Airflow/Static Pressure     |
 | Scythe Kaze Flex            | Fluid-Dynamic               | 120,000h @ 25°C               | 27mm                        | Airflow/Static Pressure     |
 | Scythe Kaze Flex Slim       | Fluid-Dynamic               | 120,000h @ 25°C               | 15mm                        | Airflow/Static Pressure     |
