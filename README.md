@@ -15,6 +15,7 @@ Here is a guide on buying case fans. A lot of fans will be covered for many diff
 | Arctic P12 Slim             | Hydro-Dynamic               | Unspecified                   | 15mm                        | Airflow/Static Pressure     |
 | Cryorig QF120 Performance   | Hydro-Dynamic               | Unspecified                   | 25mm                        | Airflow                     |
 | Cougar Vortex PWM           | Dual-Ball                   | Unspecified                   | 25mm                        | Static Pressure             |
+| Enermax D.F. Pressure       | Twister Gen 2               | 160,000h @ 25°C               | 25mm                        | Airflow/Static Pressure     |
 | Enermax T.B. Silence ADV    | Twister Gen 2               | 160,000h @ 25°C               | 25mm                        | Airflow                     |
 | Nidec/Scythe Gentle Typhoon | Dual-Ball                   | 100,000h @ 35°C/60,000h @60°C | 25mm                        | Airflow/Static Pressure     |
 | Phanteks T30                | Dual-Vapo                   | 150,000h @ Unspecified        | 30mm                        | Airflow/Static Pressure     |
@@ -49,8 +50,9 @@ Here is a guide on buying case fans. A lot of fans will be covered for many diff
 | Model                       | Bearing                     | MTTF                          | Thickness                   | Optimisation                |
 | --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
 | Alpenföhn Wing Boost 3 ARGB | Fluid-Dynamic               | 250,000h @ Unspecified        | 25mm                        | Airflow/Static Pressure     |
-| Arctic P12 RGB              | Hydraulic                   | Unspecified                   | 27mm                        | Airflow/Static Pressure     |
-| be quiet! Light Wings HS    | Hydraulic                   | 60,000h @ Unspecified         | 25mm                        | Airflow/Static Pressure     |
+| Arctic P12 RGB              | Hydro-Dynamic                   | Unspecified                   | 27mm                        | Airflow/Static Pressure     |
+| be quiet! Light Wings HS    | Hydro-Dynamic                   | 60,000h @ Unspecified         | 25mm                        | Airflow/Static Pressure     |
+| Enermax HF120               | Hydro-Dynamic               | 50,000 @ 25°C                 | 25mm                        | Airflow                     |
 | Enermax SquA RGB            | Twister Gen 1               | 100,000h @ 25°C               | 26mm                        | Airflow                     |
 | Gelid Stella                | Dual-Ball                   | 100,000h @ 40°C               | 25mm                        | Airflow                     |
 | Scythe Kaze Flex RGB        | Fluid-Dynamic               | 120,000h @ 25°C               | 27mm                        | Airflow/Static Pressure     |
