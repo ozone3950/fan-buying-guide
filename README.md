@@ -40,7 +40,7 @@ Here is a guide on buying case fans. A lot of fans will be covered for many diff
 | Enermax T.B. Silence ADV    | Twister Gen 2               | 160,000h @ 25°C               | 25mm                        | Airflow                     |
 | Noiseblocker NB-eLoop       | NB-NanoSLI 2                | 160,000h @ 25°C               | 29mm                        | Airflow/Static Pressure     |
 | Scythe Kaze Flex            | Fluid Dynamic               | 120,000h @ 25°C               | 27mm                        | Airflow/Static Pressure     |
-| Thermaltake TOUGHFAN        | Hydraulic                   | 40,000h @ 25°C                | 25mm                        | Airflow/Static Pressure     |
+| Thermaltake TOUGHFAN        | Hydro-Dybamic                   | 40,000h @ 25°C                | 25mm                        | Airflow/Static Pressure     |
 
 
 ## 40mm:
