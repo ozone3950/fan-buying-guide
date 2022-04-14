@@ -1,6 +1,6 @@
 # Fan Buying Guide
 
-Here is a guide on buying case fans. A lot of fans will be covered for many different purposes and budgets. If you have any more suggestions, feel free to give your input. This list currently has 52 fans.
+Here is a guide on buying case fans. A lot of fans will be covered for many different purposes and budgets. If you have any more suggestions, feel free to give your input.
 
 
 
@@ -98,6 +98,7 @@ Here is a guide on buying case fans. A lot of fans will be covered for many diff
 | Enermax T.B. Silence        | Twister Gen 1               | 160,000h @ Unspecified        | 25mm                        | Airflow                     |
 | NB-Blacksilent Pro          | NB-NanoSLI 2                | Unspecified                   | 25mm                        | Airflow/Static Pressure     |
 | Scythe Gentle Typhoon       | Dual-Ball                   | 100,000h @ 35°C/55,000h @ 60°C| 25mm                        | Airflow/Static              |
+| Thermalright TL-9015        | Hydro-Dynamic               | Unspecified                   | 15mm                        | Airflow                     |
 
 
 ## 180mm+
