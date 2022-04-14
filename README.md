@@ -34,7 +34,7 @@ Here is a guide on buying case fans. A lot of fans will be covered for many diff
 
 | Model                       | Bearing                     | MTTF                          | Thickness                   | Optimisation                |
 | --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
-| Arctic P14 PWM PST/CO       | Hydro-Dynamic/Dual-Ball     | Unspecified                   | 27mm                        | Static Pressure             |
+| Arctic P14 PWM PST/CO       | Hydro-Dynamic/Dual-Ball     | Unspecified                   | 27mm                        | Airflow/Static Pressure             |
 | Cryorig QF140 Performance   | Hydro-Dynamic               | Unspecified                   | 25mm                        | Airflow                     |
 | Cryorig XT140               | HPLN                        | Unspecified                   | 13mm                        | Airflow                     |
 | Enermax T.B. Silence ADV    | Twister Gen 2               | 160,000h @ 25°C               | 25mm                        | Airflow                     |
@@ -49,7 +49,7 @@ Here is a guide on buying case fans. A lot of fans will be covered for many diff
 | --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
 | Gelid Silent 4              | Hydro-Dynamic               | 50,000h @ 40°C                | 10mm                        | Airflow                     |
 | NB-Blacksilent Pro          | NB-NanoSLI 2                | 100,000h @ 40°C               | 20mm                        | Airflow/Static Pressure     |
-| Sunon Maglev                | Dual-Vapo                   | Unspecified                   | 20mm                        | Airflow/Static              |
+| Sunon Maglev                | Dual-Vapo                   | Unspecified                   | 20mm                        | Airflow/Static Pressure     |
 
 
 ## 80/92mm:
@@ -62,7 +62,7 @@ Here is a guide on buying case fans. A lot of fans will be covered for many diff
 | Enermax Magma ADV           | Twister Gen 1               | 160,000h @ Unspecified        | 25mm                        | Airflow                     |
 | Enermax T.B. Silence        | Twister Gen 1               | 160,000h @ Unspecified        | 25mm                        | Airflow                     |
 | NB-Blacksilent Pro          | NB-NanoSLI 2                | Unspecified                   | 25mm                        | Airflow/Static Pressure     |
-| Scythe Gentle Typhoon       | Dual-Ball                   | 100,000h @ 35°C/55,000h @ 60°C| 25mm                        | Airflow/Static              |
+| Scythe Gentle Typhoon       | Dual-Ball                   | 100,000h @ 35°C/55,000h @ 60°C| 25mm                        | Airflow/Static Pressure     |
 | Thermalright TL-9015        | Hydro-Dynamic               | Unspecified                   | 15mm                        | Airflow                     |
 
 
