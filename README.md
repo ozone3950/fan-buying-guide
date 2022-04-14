@@ -39,6 +39,7 @@ Bearings are the ring-like mechanism which causes the fan to rotate. Like any me
 | Enermax D.F. Pressure       | Twister Gen 2               | 160,000h @ 25°C               | 25mm                        | Airflow/Static Pressure     |
 | Enermax Magma ADV           | Twister Gen 1               | 160,000h @ Unspecified        | 25mm                        | Airflow                     |
 | Enermax T.B. Silence ADV    | Twister Gen 2               | 160,000h @ 25°C               | 25mm                        | Airflow                     |
+| MSI Silent Gale P12         | HDB                         | 50,000h @ Unspecified         | 25mm                        | Airflow/Static Pressure     |
 | Nidec/Scythe Gentle Typhoon | DBB                         | 100,000h @ 35°C/60,000h @60°C | 25mm                        | Airflow/Static Pressure     |
 | Noctua NF-A12x25            | SSO2                        | 150,000h @ Unspecified        | 25mm                        | Airflow/Static Pressure     |
 | Phanteks T30                | Maglev                      | 150,000h @ Unspecified        | 30mm                        | Airflow/Static Pressure     |
@@ -55,11 +56,12 @@ Bearings are the ring-like mechanism which causes the fan to rotate. Like any me
 
 | Model                       | Bearing                     | MTTF                          | Thickness                   | Optimisation                |
 | --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
-| Arctic P14 PWM PST/CO       | HDB/DBB                     | Unspecified                   | 27mm                        | Airflow/Static Pressure             |
+| Arctic P14 PWM PST/CO       | HDB/DBB                     | Unspecified                   | 27mm                        | Airflow/Static Pressure     |
 | Cryorig QF140 Performance   | HDB                         | Unspecified                   | 25mm                        | Airflow                     |
 | Cryorig XT140               | HDB                         | Unspecified                   | 13mm                        | Airflow                     |
 | Enermax T.B. Silence ADV    | Twister Gen 2               | 160,000h @ 25°C               | 25mm                        | Airflow                     |
-| Noiseblocker NB-eLoop       |                 | 160,000h @ 25°C               | 29mm                        | Airflow/Static Pressure     |
+| MSI Silent Gale P14         | HDB                         | 50,000h @ Unspecified         | 25mm                        | Airflow/Static Pressure     |
+| Noiseblocker NB-eLoop       | NB-NanoSLI 2                | 160,000h @ 25°C               | 29mm                        | Airflow/Static Pressure     |
 | Scythe Kaze Flex            | FDB                         | 120,000h @ 25°C               | 27mm                        | Airflow/Static Pressure     |
 | Thermaltake TOUGHFAN        | HDB                         | 40,000h @ 25°C                | 25mm                        | Airflow/Static Pressure     |
 
