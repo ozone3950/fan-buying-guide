@@ -42,42 +42,6 @@ Here is a guide on buying case fans. A lot of fans will be covered for many diff
 | Thermaltake TOUGHFAN        | Hydraulic                   | 40,000h @ 25°C                | 25mm                        | Airflow/Static Pressure     |
 
 
-
-
-# RGB Fans:
-
-## 120mm:
-
-| Model                       | Bearing                     | MTTF                          | Thickness                   | Optimisation                |
-| --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
-| Alpenföhn Wing Boost 3 ARGB | Fluid-Dynamic               | 250,000h @ Unspecified        | 25mm                        | Airflow/Static Pressure     |
-| Arctic P12 RGB              | Hydro-Dynamic               | Unspecified                   | 27mm                        | Airflow/Static Pressure     |
-| be quiet! Light Wings HS    | Hydro-Dynamic               | 60,000h @ Unspecified         | 25mm                        | Airflow/Static Pressure     |
-| Enermax Cluster ADV         | Twister Gen 1               | 160,000h @ Unspecified        | 25mm                        | Airflow                     |
-| Enermax D.F. Vegas DUO      | Twister Gen 1               | 160,000h @ Unspecified        | 25mm                        | Airflow                     |
-| Enermax Everest ADV         | Twister Gen 1               | 160,000h @ Unspecified        | 25mm                        | Airflow                     |
-| Enermax HF120               | Hydro-Dynamic               | 50,000 @ 25°C                 | 25mm                        | Airflow                     |
-| Enermax SquA RGB            | Twister Gen 1               | 100,000h @ 25°C               | 26mm                        | Airflow                     |
-| Gelid Stella                | Dual-Ball                   | 100,000h @ 40°C               | 25mm                        | Airflow                     |
-| Lian Li ST120               | Fluid-Dynamic               | Unspecified                   | 25mm                        | Airflow/Static Pressure     |
-| Scythe Kaze Flex RGB        | Fluid-Dynamic               | 120,000h @ 25°C               | 27mm                        | Airflow/Static Pressure     |
-
-
-## 140mm:
-
-| Model                       | Bearing                     | MTTF                          | Thickness                   | Optimisation                |
-| --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
-| Alpenföhn Wing Boost 3 ARGB | Fluid-Dynamic               | 250,000h @ Unspecified        | 25mm                        | Airflow/Static Pressure     |
-| Enermax Cluster ADV         | Twister Gen 1               | 160,000h @ Unspecified        | 25mm                        | Airflow                     |
-| Gelid Lyra                  | Dual-Ball                   | 100,000h @ 40°C               | 25mm                        | Airflow                     |
-| Noiseblocker ELOOP X ARGB   | NB-NanoSLI 2                | 120,000h @ 25°C               | 29mm                        | Airflow/Static Pressure     |
-| Scythe Kaze Flex RGB        | Fluid-Dynamic               | 120,000h @ 25°C               | 27mm                        | Airflow/Static Pressure     |
-
-
-
-
-# Miscellaneous Fans:
-
 ## 40mm:
 
 | Model                       | Bearing                     | MTTF                          | Thickness                   | Optimisation                |
@@ -109,3 +73,35 @@ Here is a guide on buying case fans. A lot of fans will be covered for many diff
 | Silverstone AP182           | Dual-Ball                   | Unspecified                   | 32mm                        | Airflow/Static Pressure     |
 | Silverstone AP183           | Dual-Ball                   | 70,000h @ Unspecified         | 32mm                        | Airflow/Static Pressure     |
 ##### Note: If 200mm fans are needed, 180mm~ fans can be used in 200mm brackets found for cheap on eBay.
+
+
+
+
+# RGB Fans:
+
+## 120mm:
+
+| Model                       | Bearing                     | MTTF                          | Thickness                   | Optimisation                |
+| --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
+| Alpenföhn Wing Boost 3 ARGB | Fluid-Dynamic               | 250,000h @ Unspecified        | 25mm                        | Airflow/Static Pressure     |
+| Arctic P12 RGB              | Hydro-Dynamic               | Unspecified                   | 27mm                        | Airflow/Static Pressure     |
+| be quiet! Light Wings HS    | Hydro-Dynamic               | 60,000h @ Unspecified         | 25mm                        | Airflow/Static Pressure     |
+| Enermax Cluster ADV         | Twister Gen 1               | 160,000h @ Unspecified        | 25mm                        | Airflow                     |
+| Enermax D.F. Vegas DUO      | Twister Gen 1               | 160,000h @ Unspecified        | 25mm                        | Airflow                     |
+| Enermax Everest ADV         | Twister Gen 1               | 160,000h @ Unspecified        | 25mm                        | Airflow                     |
+| Enermax HF120               | Hydro-Dynamic               | 50,000 @ 25°C                 | 25mm                        | Airflow                     |
+| Enermax SquA RGB            | Twister Gen 1               | 100,000h @ 25°C               | 26mm                        | Airflow                     |
+| Gelid Stella                | Dual-Ball                   | 100,000h @ 40°C               | 25mm                        | Airflow                     |
+| Lian Li ST120               | Fluid-Dynamic               | Unspecified                   | 25mm                        | Airflow/Static Pressure     |
+| Scythe Kaze Flex RGB        | Fluid-Dynamic               | 120,000h @ 25°C               | 27mm                        | Airflow/Static Pressure     |
+
+
+## 140mm:
+
+| Model                       | Bearing                     | MTTF                          | Thickness                   | Optimisation                |
+| --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
+| Alpenföhn Wing Boost 3 ARGB | Fluid-Dynamic               | 250,000h @ Unspecified        | 25mm                        | Airflow/Static Pressure     |
+| Enermax Cluster ADV         | Twister Gen 1               | 160,000h @ Unspecified        | 25mm                        | Airflow                     |
+| Gelid Lyra                  | Dual-Ball                   | 100,000h @ 40°C               | 25mm                        | Airflow                     |
+| Noiseblocker ELOOP X ARGB   | NB-NanoSLI 2                | 120,000h @ 25°C               | 29mm                        | Airflow/Static Pressure     |
+| Scythe Kaze Flex RGB        | Fluid-Dynamic               | 120,000h @ 25°C               | 27mm                        | Airflow/Static Pressure     |
