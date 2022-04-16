@@ -16,7 +16,7 @@ Bearings are the ring-like mechanism which causes the fan to rotate. Like any me
 | FDB     | Fluid-Dynamic Bearing         |
 | DBB     | Dual-Ball Bearing             |
 | Maglev  | Magnetic Levitation           |
-| Twister | Enermax's own bearing         |
+| Twister (Gen 1/2) | Enermax's own bearing         |
 | SSO2    | Noctua's own bearing          |
 | NB-NanoSLI 2 | Blacknoise's own bearing |
 
