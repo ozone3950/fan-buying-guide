@@ -15,8 +15,8 @@ Bearings are the ring-like mechanism which causes the fan to rotate. Like any me
 | HDB     | Hydro-Dynamic Bearing         |
 | FDB     | Fluid-Dynamic Bearing         |
 | DBB     | Dual-Ball Bearing             |
-| Maglev  | Magnetic Levitation           |
-| Twister (Gen 1/2) | Enermax's own bearing         |
+| Vapo    | Maglev (Magnetic Levitation   |
+| Twister (Gen 1/2) | Enermax's own bearing|
 | SSO2    | Noctua's own bearing          |
 | NB-NanoSLI 2 | Blacknoise's own bearing |
 
@@ -40,7 +40,7 @@ Bearings are the ring-like mechanism which causes the fan to rotate. Like any me
 | MSI Silent Gale P12         | HDB                         | 50,000h @ Unspecified         | 25mm                        | Airflow/Static Pressure     |
 | Nidec/Scythe Gentle Typhoon | DBB                         | 100,000h @ 35°C/60,000h @60°C | 25mm                        | Airflow/Static Pressure     |
 | Noctua NF-A12x25            | SSO2                        | 150,000h @ Unspecified        | 25mm                        | Airflow/Static Pressure     |
-| Phanteks T30                | Maglev                      | 150,000h @ Unspecified        | 30mm                        | Airflow/Static Pressure     |
+| Phanteks T30                | Vapo                        | 150,000h @ Unspecified        | 30mm                        | Airflow/Static Pressure     |
 | Scythe Kaze Flex            | FDB                         | 120,000h @ 25°C               | 27mm                        | Airflow/Static Pressure     |
 | Scythe Kaze Flex Slim       | FDB                         | 120,000h @ 25°C               | 15mm                        | Airflow/Static Pressure     |
 | Scythe Slip Stream 120DB    | DBB                         | 350,000 @ Unspecified         | 25mm                        | Airflow                     |
@@ -70,7 +70,7 @@ Bearings are the ring-like mechanism which causes the fan to rotate. Like any me
 | --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
 | Gelid Silent 4              | HDB                         | 50,000h @ 40°C                | 10mm                        | Airflow                     |
 | NB-Blacksilent Pro          | NB-NanoSLI 2                | 100,000h @ 40°C               | 20mm                        | Airflow/Static Pressure     |
-| Sunon Maglev                | Maglev                      | Unspecified                   | 20mm                        | Airflow/Static Pressure     |
+| Sunon Maglev                | Vapo                        | Unspecified                   | 20mm                        | Airflow/Static Pressure     |
 
 
 ## 80/92mm:
