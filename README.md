@@ -29,7 +29,7 @@ Bearings are the ring-like mechanism which causes the fan to rotate. Like any me
 
 | Name                        | Bearing                     | MTTF                          | Thickness                   | Optimisation                |
 | --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
-| Arctic P12 PWM PST/CO       | HDB/DBB                     | Unspecified                   | 27mm                        | Airflow/Static Pressure     |
+| Arctic P12 PWM PST/CO       | HDB/DBB                     | Unspecified                   | 25mm                        | Airflow/Static Pressure     |
 | Arctic P12 Slim             | HDB                         | Unspecified                   | 15mm                        | Airflow/Static Pressure     |
 | Cryorig QF120 Performance   | HDB                         | Unspecified                   | 25mm                        | Airflow                     |
 | Cougar Vortex PWM           | DBB                         | Unspecified                   | 25mm                        | Airflow/Static Pressure     |
@@ -106,7 +106,7 @@ Bearings are the ring-like mechanism which causes the fan to rotate. Like any me
 | Model                       | Bearing                     | MTTF                          | Thickness                   | Optimisation                |
 | --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
 | Alpenföhn Wing Boost 3 ARGB | FDB                         | 250,000h @ Unspecified        | 25mm                        | Airflow/Static Pressure     |
-| Arctic P12 RGB              | HDB                         | Unspecified                   | 27mm                        | Airflow/Static Pressure     |
+| Arctic P12 (A)RGB           | HDB                         | Unspecified                   | 25mm                        | Airflow/Static Pressure     |
 | be quiet! Light Wings HS    | HDB                         | 60,000h @ Unspecified         | 25mm                        | Airflow/Static Pressure     |
 | Cryorig QF120 LED           | HDB                         | Unspecified                   | 25mm                        | Airflow                     |
 | Enermax Cluster ADV         | Twister Gen 1               | 160,000h @ Unspecified        | 25mm                        | Airflow                     |
@@ -125,6 +125,7 @@ Bearings are the ring-like mechanism which causes the fan to rotate. Like any me
 | Model                       | Bearing                     | MTTF                          | Thickness                   | Optimisation                |
 | --------------------------- | --------------------------- | ----------------------------- | --------------------------- | --------------------------- |
 | Alpenföhn Wing Boost 3 ARGB | FDB                         | 250,000h @ Unspecified        | 25mm                        | Airflow/Static Pressure     |
+| Arctic P14 (A)RGB           | HDB                         | Unspecified                   | 27mm                        | Airflow/Static Pressure     |
 | Enermax Cluster ADV         | Twister Gen 1               | 160,000h @ Unspecified        | 25mm                        | Airflow                     |
 | Gelid Lyra                  | DBB                         | 100,000h @ 40°C               | 25mm                        | Airflow                     |
 | Noiseblocker ELOOP X ARGB   | NB-NanoSLI 2                | 120,000h @ 25°C               | 29mm                        | Airflow/Static Pressure     |
