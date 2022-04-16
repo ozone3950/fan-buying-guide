@@ -2,25 +2,23 @@
 
 Here is a guide on buying case fans. A lot of fans will be covered for many different purposes and budgets. If you have any more suggestions, feel free to give your input.
 
-## Bearing Introduction
+## Information
 
+##### Static Pressure
+Static pressure is the amount of pressure exerted in the direction of the fan is pushing the air, which will help it with cooling in situations with restrictive airflow, such as radiators. This will make fans that are optimised for static pressure perform better on radiators compared to ones that aren't.
+
+##### Bearings
 Bearings are the ring-like mechanism which causes the fan to rotate. Like any mechanism, they do not last for ever, hence the metric "Meantime To Failiure" (MTTF).
-
-**Sleeve:** Avoid as much as possible, none of the fans on this list are sleeve
-
-**HDB:** Hydro-Dynamic Bearing
-
-**FDB:** Fluid-Dynamic Bearing
-
-**DBB:** Dual-Ball Bearing
-
-**Maglev:** Magnetic Levitation
-
-**Twister:** Enermax's own bearing 
-
-**SSO2:** Noctua's own bearing
-
-**NB-NanoSLI 2:** Blacknoise's own bearing
+| Bearing | Note                          |
+| ------- | ----------------------------- |
+| Sleeve  | Avoid as much as possible, none of the fans on this list are sleeve
+| HDB     | Hydro-Dynamic Bearing         |
+| FDB     | Fluid-Dynamic Bearing         |
+| DBB     | Dual-Ball Bearing             |
+| Maglev  | Magnetic Levitation           |
+| Twister | Enermax's own bearing         |
+| SSO2    | Noctua's own bearing          |
+| NB-NanoSLI 2 | Blacknoise's own bearing |
 
 
 
