@@ -133,4 +133,4 @@ Bearings are the ring-like mechanism which causes the fan to rotate. Like any me
 
 
 # Credits
-Thank you go Ralicx, The Thonk, and Drakefy for helping out with the bearings and some of the fans.
+Thank you to Ralicx, The Thonk, Drakefy, and Rafee for helping out with the bearings and some of the fans.
