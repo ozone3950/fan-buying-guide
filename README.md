@@ -33,7 +33,7 @@ Bearings are the ring-like mechanism which causes the fan to rotate. Like any me
 | Arctic P12 Slim             | HDB                         | Unspecified                   | 15mm                        | Airflow/Static Pressure     |
 | Cryorig QF120 Performance   | HDB                         | Unspecified                   | 25mm                        | Airflow                     |
 | Cougar Vortex PWM           | FDB                         | Unspecified                   | 25mm                        | Airflow/Static Pressure     |
-| Cooler Master SF120M        | DBB                         | 280,000h @ Unspecified        | 25mm                        | Airflow/Static Pressure     |
+| Cooler Master SF120M        | DBB                         | 300,000h @ 25°C               | 25mm                        | Airflow/Static Pressure     |
 | Enermax D.F. Pressure       | Twister Gen 2               | 160,000h @ 25°C               | 25mm                        | Airflow/Static Pressure     |
 | Enermax Magma ADV           | Twister Gen 1               | 160,000h @ Unspecified        | 25mm                        | Airflow                     |
 | Enermax T.B. Silence ADV    | Twister Gen 2               | 160,000h @ 25°C               | 25mm                        | Airflow                     |
